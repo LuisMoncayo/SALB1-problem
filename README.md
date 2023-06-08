@@ -11,6 +11,6 @@ The three parts are:
         - Workers_Speed (speed of the workers in cells)
         - IAT (inter--arrival time)
         - Nu_Workers (number of workers in cells)
-4. Optimise the value of the parameter by the SIMIO add-on OptQuest.
-
-Open the corresponding file to open the files using to accomplish each part.
+3. Optimise the value of the parameter by the SIMIO add-on OptQuest.
+    - Optimisation using discreate IAT "OptQuest_Discreate_IAT.spfx"
+    - Optimisation using stochastic IAT "OptQuest_Stochastic_IAT.spfx"
