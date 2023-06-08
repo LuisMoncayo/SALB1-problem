@@ -3,9 +3,8 @@ This project has the files of a proposed three-part algorithm to find a solution
 
 The three parts are:
 1. Solve the mixed-integer linear programming model using GLPK via Pyomo. The files are:
-    _
-   _ pyomo_implementation.py
-   _ gearbox_instance.xlsx
+    - pyomo_implementation.py
+    - gearbox_instance.xlsx
 3. Create a SIMIO simulation model to add variability to the balancing using a set of parameter.
 4. Optimise the value of the parameter by the SIMIO add-on OptQuest.
 
