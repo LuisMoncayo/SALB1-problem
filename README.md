@@ -14,3 +14,7 @@ The three parts are:
 3. Optimise the value of the parameter by the SIMIO add-on OptQuest.
     - Optimisation using discreate IAT "OptQuest_Discreate_IAT.spfx"
     - Optimisation using stochastic IAT "OptQuest_Stochastic_IAT.spfx"
+
+NOTE: User can download a free version of SIMIO from:
+
+[SIMIO DOWNLOAD] (https://www.simio.com/free-simulation-software/index.php)
