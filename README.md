@@ -17,4 +17,4 @@ The three parts are:
 
 NOTE: User can download a free version of SIMIO from:
 
-[SIMIO DOWNLOAD] (https://www.simio.com/free-simulation-software/index.php)
+[SIMIO DOWNLOAD](https://www.simio.com/free-simulation-software/index.php)
