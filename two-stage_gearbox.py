@@ -162,23 +162,4 @@ for j in range(nu_cells):
     print("The time content in cell",j+1," is",  cell_time, end="")
     print()
     print("Efficiency of cell",j+1," is",round((cell_time/pyo.value(model.objective))*100,2),"%", end="")
-    print()
-
-
-
-
-
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
+    print()  
