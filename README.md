@@ -1,4 +1,4 @@
-# Objective
+# Solving the SALB-1 problem in process variability.
 This project has the files of a proposed three-part algorithm to find a solution to a stochastic Simple Assembly Line Balancing (SALB-1) problem. In this case the SALB-1 problem is solve; thus, the number of open cells is unknown as well as the assignation of the task to the open cells.
 
 The three parts are:
