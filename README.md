@@ -2,7 +2,7 @@
 This project has the files of a proposed three-part algorithm to find a solution to a stochastic Simple Assembly Line Balancing (SALB-1) problem. In this case the SALB-1 problem is solve; thus, the number of open cells is unknown as well as the assignation of the task to the open cells.
 
 The three parts are:
-1. Solve the mixed--integer linear programming model using GLPK via Pyomo.
+1. Solve the mixed--integer linear programming model using GLPK via Pyomo, see the "pyomo_implementation.py" file.
 2. Create a SIMIO simulation model to add variability to the balancing using a set of parameter.
 3. Optimise the value of the parameter by the SIMIO add-on OptQuest.
 
