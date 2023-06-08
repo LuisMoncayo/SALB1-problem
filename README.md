@@ -5,7 +5,12 @@ The three parts are:
 1. Solve the mixed-integer linear programming model using GLPK via Pyomo. The files are:
     - pyomo_implementation.py
     - gearbox_instance.xlsx
-3. Create a SIMIO simulation model to add variability to the balancing using a set of parameter.
+2. Create a SIMIO simulation model add variability to the balancing using a set of parameter. 
+    - The file "Scaled_Model.spfx" has the following experiments:
+        - Verification (model verification)
+        - Workers_Speed (speed of the workers in cells)
+        - IAT (inter--arrival time)
+        - Nu_Workers (number of workers in cells)
 4. Optimise the value of the parameter by the SIMIO add-on OptQuest.
 
 Open the corresponding file to open the files using to accomplish each part.
